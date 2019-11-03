@@ -1,0 +1,2 @@
+include ':app', ':FloatingViewLib'
+rootProject.name='XuFloatingView'

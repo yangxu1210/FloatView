@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/a"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="showFloatView"
+        android:text="显示" />
+
+    <Button
+        android:id="@+id/btn_hide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="hideView"
+        android:text="删除" />
+
+    <Button
+        android:id="@+id/btn_anim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playAnim"
+        android:text="开始旋转-开始播放音乐" />
+    <Button
+        android:id="@+id/btn_stop_anim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="stopAnim"
+        android:text="停止旋转-停止播放音乐" />
+
+    <Button
+        android:id="@+id/btn_b"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="skipB"
+        android:text="我是界面b" />
+
+
+</LinearLayout>
