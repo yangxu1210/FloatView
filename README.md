@@ -16,7 +16,7 @@
 * 增加 播放音乐模块(后续重点)
 * ...让这个项目更加有使用价值
 
-# demo下载 没有gif? 谁知道呢。
+# demo下载 不能正常下载apk 就下代码玩吧
 [下载体验](https://github.com/yangxu1210/FloatView/blob/master/snapshoot/app-debug.apk?raw=true)
 
 # 使用方式
