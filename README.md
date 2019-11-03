@@ -1,4 +1,4 @@
-###  FloatView 是一个应用内浮动按钮，本项目在[EnFloatingView](https://github.com/leotyndale/EnFloatingView)] 的基础上扩展而来，算是EnFloatingView v2.0吧，使用方式一样。最近项目有这个需求，并且已经在项目中使用。 分享出来给有需要的朋友使用和学习。[Spring-data-jpa 查询  复杂查询陆续完善中](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
+###  FloatView 是一个应用内浮动按钮，本项目在[EnFloatingView](https://github.com/leotyndale/EnFloatingView)] 的基础上扩展而来，算是EnFloatingView v2.0吧，使用方式一样。最近项目有这个需求，并且已经在项目中使用。 分享出来给有需要的朋友使用和学习。
 * 应用内显示，无需申请任何权限
 * 没有适配问题、对付产品狗的逆天要求神器(WindowManger 有权限问题、或者产品就不想让用户去授权 这种逆天操作)
 * 支持拖拽
