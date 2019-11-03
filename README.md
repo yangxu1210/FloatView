@@ -33,7 +33,9 @@
   ```
 2. 显示浮动按钮
    
-```java   XuFloatManager.get().data("https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2357722536,1561223771&fm=11&gp=0.jpg","血色冰封 - Novasonic - 单曲 - 网易云音乐")
+```java 
+
+XuFloatManager.get().data("https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2357722536,1561223771&fm=11&gp=0.jpg","血色冰封 - Novasonic - 单曲 - 网易云音乐")
                 .init()
                 .listener(mListener);
                 
