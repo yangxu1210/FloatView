@@ -24,4 +24,4 @@ floatView 是一个应用内全局浮动菜单按钮，支持
         }
     };    
   ```
-  ![effect](https://raw.githubusercontent.com/yangxu1210/TimerTextview/master/TimerView/screenshot/effect.gif)
+  ![effect](https://raw.githubusercontent.com/yangxu1210/FloatView/master/FloatView/screenshot/1572737254647141.mp4)
