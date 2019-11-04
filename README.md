@@ -5,8 +5,6 @@
 * 超出屏幕限制移动
 * 可自动吸附到屏幕边缘
 
-![项目效果图.gif](https://github.com/yangxu1210/FloatView/blob/master/snapshoot/effect.gif)
-
 # 优化：
 * 支持 拖拽事件、子view的点击事件区分
 * 支持 自定义布局 收缩|展开 Menu菜单
@@ -20,6 +18,8 @@
 
 # demo下载 不能正常下载apk 就下代码玩吧
 [下载体验](https://github.com/yangxu1210/FloatView/blob/master/snapshoot/app-debug.apk?raw=true)
+
+![项目效果图.gif](https://github.com/yangxu1210/FloatView/blob/master/snapshoot/effect.gif)
 
 # 使用方式
 1. 在基类Activity（注意必须是基类Activity）中的onResume和onStop（或者安卓原生ActivityLifeCycle监听）中添加如下代码
