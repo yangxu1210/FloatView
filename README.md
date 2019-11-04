@@ -5,7 +5,7 @@
 * 超出屏幕限制移动
 * 可自动吸附到屏幕边缘
 
-![项目效果图.gif](https://github.com/yangxu1210/FloatView/blob/master/snapshoot/effect.gif?raw=true)
+![项目效果图.gif](https://github.com/yangxu1210/FloatView/blob/master/snapshoot/effect.gif)
 
 # 优化：
 * 支持 拖拽事件、子view的点击事件区分
